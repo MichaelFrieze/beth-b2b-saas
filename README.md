@@ -1,4 +1,4 @@
-[I am following this tutorial](https://www.youtube.com/watch?v=NZpPMlSAez0)
+[I am following this tutorial](https://youtu.be/NZpPMlSAez0?si=lYygC9o9sAnNGBP4&t=1016)
 
 # This project was created using `create-beth-app`
 
